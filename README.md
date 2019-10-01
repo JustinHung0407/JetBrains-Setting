@@ -4,6 +4,9 @@
 Configure a settings repository #
 Create a Git repository on any hosting service, such as Bitbucket or GitHub.
 
+## Preview 
+![image](https://github.com/JustinHung0407/JetBrains-Setting/blob/master/JetBrains-Setting.png)
+
 ## Getting Started
 
 On the computer where the IntelliJ IDEA instance whose settings you want to share is installed, select File | Settings Repository from the main menu. Specify the URL of the repository you've created and click Overwrite Remote.
