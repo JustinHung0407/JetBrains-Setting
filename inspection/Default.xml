@@ -14,6 +14,7 @@
         <option value="get_payload.payload_list.*" />
         <option value="main.*" />
         <option value="dict.append" />
+        <option value="dict.__add__" />
       </list>
     </option>
   </inspection_tool>
