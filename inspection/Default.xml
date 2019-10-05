@@ -13,6 +13,7 @@
         <option value="get_payload.payload_list.AQI" />
         <option value="get_payload.payload_list.*" />
         <option value="main.*" />
+        <option value="dict.append" />
       </list>
     </option>
   </inspection_tool>
