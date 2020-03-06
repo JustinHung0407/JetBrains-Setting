@@ -1,0 +1,20 @@
+<application>
+  <component name="TomcatInfoConfigs">
+    <option name="current">
+      <TomcatInfo>
+        <option name="name" value="Apache Tomcat 8.5.51" />
+        <option name="path" value="C:\apache-tomcat-8.5.51" />
+        <option name="version" value="8.5.51.0" />
+      </TomcatInfo>
+    </option>
+    <option name="tomcatInfos">
+      <list>
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 8.5.51" />
+          <option name="path" value="C:\apache-tomcat-8.5.51" />
+          <option name="version" value="8.5.51.0" />
+        </TomcatInfo>
+      </list>
+    </option>
+  </component>
+</application>
