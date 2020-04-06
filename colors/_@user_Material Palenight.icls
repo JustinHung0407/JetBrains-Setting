@@ -4,7 +4,7 @@
     <property name="created">2019-09-28T18:51:20</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2020-04-03T17:45:19</property>
+    <property name="modified">2020-04-06T17:27:37</property>
     <property name="originalScheme">Material Palenight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -393,7 +393,7 @@
     </option>
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="Class" baseAttributes="" />
+    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
@@ -995,8 +995,8 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="" />
-    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="JFLEX_MACROS_REF">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
@@ -2293,10 +2293,10 @@
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value />
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
-    <option name="PROPERTIES.KEY" baseAttributes="" />
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="219598" />
@@ -2689,7 +2689,7 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="SUGGESTION">
       <value>
         <option name="EFFECT_COLOR" value="607d8b" />
@@ -2710,9 +2710,9 @@
     </option>
     <option name="Scala Type Alias" baseAttributes="" />
     <option name="Scala Type parameter" baseAttributes="" />
-    <option name="Static method access" baseAttributes="" />
-    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
-    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
+    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
+    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="HTML_ATTRIBUTE_NAME" />
+    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="HTML_TAG_NAME" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bd92ea" />
@@ -2751,7 +2751,7 @@
         <option name="FOREGROUND" value="c7c8f5" />
       </value>
     </option>
-    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
     <option name="TYPO">
       <value>
         <option name="EFFECT_COLOR" value="ffeb95" />
@@ -2858,8 +2858,8 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="osmorc.attributeName" baseAttributes="" />
-    <option name="osmorc.directiveName" baseAttributes="" />
+    <option name="osmorc.attributeName" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="osmorc.directiveName" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="osmorc.headerName">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
