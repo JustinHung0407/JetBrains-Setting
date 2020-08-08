@@ -14,6 +14,10 @@
           <option name="url" value="https://justin_hung@bitbucket.org/twccbaas/twccbaas.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.omnithings.io" />
+          <option name="userName" value="asuscloud_justin" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Justin Hung" />
