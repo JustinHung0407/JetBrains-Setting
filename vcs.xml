@@ -3,11 +3,27 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
+          <option name="url" value="https://justin_hung@bitbucket.org/datapipeliner/dplsit.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="justin_hung" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://justin_hung@bitbucket.org/omnicare/omnicaremanager.git" />
+          <option name="url" value="https://justin_hung@bitbucket.org/twccbaas/twccbaas.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.omnithings.io" />
+          <option name="userName" value="asuscloud_justin" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.omnithings.io/asuscloud_justin/Pulsar-API.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/iamibr/ApachePulsar-SpringBoot.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
@@ -23,5 +39,8 @@
         <option value="3" />
       </list>
     </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
