@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/iamibr/ApachePulsar-SpringBoot.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.omnithings.io/asuscloud_henry/gitops-gradle.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Justin Hung\IdeaProjects" />
