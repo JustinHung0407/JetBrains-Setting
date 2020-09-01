@@ -3,9 +3,9 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="http://localhost:9000" />
-          <token>df9cdf9edf9fdfcfdf99dfc9dfcedf92df93df9cdf99df9ddf92df9adf9edfc8df9edf9edf93dfc9df93df9bdf99df9ddf9fdf9adf9cdf9ddf93df9cdf9adfcbdf92df9adf92df9fdf9ddfc8dfccdf9c</token>
-          <option name="name" value="Local Server" />
+          <option name="hostUrl" value="http://localhost:8080" />
+          <token>df9bdfc9df9edf9ddfcbdf9cdfcedfc9df92df98df98dfcedf92df99dfc9df9cdfcbdf9ddfcedfcedf93df9edfc9df9bdf9fdf9bdfc9dfc8dfcedf9cdfcedf93dfcfdfcfdf9cdf93dfc8df9bdf9cdf98</token>
+          <option name="name" value="Local-K8s-SonarQube" />
           <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>
       </list>
