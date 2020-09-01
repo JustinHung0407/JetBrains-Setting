@@ -8,6 +8,12 @@
           <option name="name" value="Local-K8s-SonarQube" />
           <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarqube-416612ff.baas.tmpstg.twcc.tw/" />
+          <token>df99dfccdf92df92df98df9cdfcedfcfdfccdf9edfc8dfcedfc9dfc8df9ddfc9df9adf9cdf98df99dfcbdfc9df93df92df9edf98df9ddfccdf9bdfc8df99df99dfcfdf99df98df92df9ddf9cdfccdf9d</token>
+          <option name="name" value="TWCC-TempStaging-SonarQube" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
       </list>
     </option>
     <rules />
