@@ -10,7 +10,7 @@
         </SonarQubeServer>
         <SonarQubeServer>
           <option name="hostUrl" value="https://sonarqube-416612ff.baas.tmpstg.twcc.tw/" />
-          <token>df99dfccdf92df92df98df9cdfcedfcfdfccdf9edfc8dfcedfc9dfc8df9ddfc9df9adf9cdf98df99dfcbdfc9df93df92df9edf98df9ddfccdf9bdfc8df99df99dfcfdf99df98df92df9ddf9cdfccdf9d</token>
+          <token>df9ddf9adfc9df92df9bdfccdf9edf9ddf99df93dfc8df99df9edf9fdf9cdf9fdf9cdf9adf9edf9ddf9cdfcbdf92df9bdf98df9cdf93df9bdf93df92df9fdfc8df92dfcfdfcedf9ddf93dfc9df9bdf9b</token>
           <option name="name" value="TWCC-TempStaging-SonarQube" />
           <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>
