@@ -3,6 +3,22 @@
     <option name="usageStatsEnabled" value="true" />
     <option name="projectNameToSettingsMap">
       <map>
+        <entry key="GitOps">
+          <value>
+            <ProjectSettings>
+              <option name="projectName" value="GitOps" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="JUnit5MockitoAssertJ.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-JUnit5MockitoAssertJ.java" />
+                  <option name="isInternal" value="true" />
+                </Template>
+              </option>
+              <option name="moduleAutoConfigSetting" value="AUTOMATICALLY_CONFIGURE_WHEN_POSSIBLE" />
+            </ProjectSettings>
+          </value>
+        </entry>
         <entry key="gitops-gradle">
           <value>
             <ProjectSettings>
@@ -23,6 +39,14 @@
     </option>
     <option name="projectNameModuleNameToSettingsMap">
       <map>
+        <entry key="GitOps_GitOps.main">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="GitOps.main" />
+              <option name="testDirectoryRoot" value="src\test\java" />
+            </ModuleSettings>
+          </value>
+        </entry>
         <entry key="gitops-gradle_gitops-gradle.main">
           <value>
             <ModuleSettings>
