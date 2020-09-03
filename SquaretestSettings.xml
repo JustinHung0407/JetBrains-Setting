@@ -47,6 +47,22 @@
             </ModuleSettings>
           </value>
         </entry>
+        <entry key="GitOps_GitOps.test">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="GitOps.test" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="JUnit5MockitoAssertJ.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-JUnit5MockitoAssertJ.java" />
+                  <option name="isInternal" value="true" />
+                </Template>
+              </option>
+              <option name="testDirectoryRoot" value="src\test\java" />
+            </ModuleSettings>
+          </value>
+        </entry>
         <entry key="gitops-gradle_gitops-gradle.main">
           <value>
             <ModuleSettings>
