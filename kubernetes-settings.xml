@@ -1,0 +1,9 @@
+<application>
+  <component name="KubernetesSettings">
+    <specSources>
+      <SpecSource>
+        <option name="pathOrUrl" value="https://github.com/triggermesh/charts/blob/master/istio-crds.yaml" />
+      </SpecSource>
+    </specSources>
+  </component>
+</application>
