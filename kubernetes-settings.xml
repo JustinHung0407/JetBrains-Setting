@@ -2,7 +2,7 @@
   <component name="KubernetesSettings">
     <specSources>
       <SpecSource>
-        <option name="pathOrUrl" value="https://github.com/triggermesh/charts/blob/master/istio-crds.yaml" />
+        <option name="pathOrUrl" value="https://raw.githubusercontent.com/istio/api/master/kubernetes/customresourcedefinitions.gen.yaml" />
       </SpecSource>
     </specSources>
   </component>
