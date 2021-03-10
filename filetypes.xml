@@ -1,11 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <removed_mapping ext="klib" type="ARCHIVE" />
       <mapping ext="dockerhub" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile-nultistage" type="Dockerfile" />
       <mapping ext="multistage" type="Dockerfile" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="drone" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
