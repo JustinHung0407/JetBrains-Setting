@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="dockerhub" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile-nultistage" type="Dockerfile" />
       <mapping ext="multistage" type="Dockerfile" />
